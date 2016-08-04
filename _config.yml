@@ -1,0 +1,14 @@
+layout_spectrum: 0.40681
+color:
+  saturation: 0.06794723
+  brandStrength: 0.437276
+  lightness: 0.7700705
+  rhythmicContrast: 0.2790215
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.4121864
+name: WideVietnam
