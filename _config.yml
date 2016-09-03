@@ -1,4 +1,4 @@
-layout_spectrum: 0.40681
+typography_spectrum: 0.4121864
 color:
   saturation: 0.06794723
   brandStrength: 0.437276
@@ -10,7 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-typography_spectrum: 0.4121864
-name: WideVietnam
+layout_spectrum: 0.40681
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2188250d-1f5c-4af7-9497-193bfecb91ba.jpg
+name: WideVietnam
